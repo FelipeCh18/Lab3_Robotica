@@ -193,13 +193,19 @@ if __name__ == '__main__':
 Primer Programa
 A continuación, se muestra el resultado de la ejecución del código dado en la guía de laboratorio:
 <p align="center">
-    <img src=Imagenes/Primer_Programa.png alt="Primer Programa " width="450">
+    <img src=Imagenes/primer_programa.png alt="Primer Programa " width="750">
 </p>
 
 Subscribe ROS
 Ahora veremos cual es el resultado de agregar la suscripción a los mensajes de ROS del Turtlesim:
 <p align="center">
-    <img src=Imagenes/Subscribe_ROS.png alt="Subscribe ROS " width="450">
+    <img src=Imagenes/Subscribe_ROS.png alt="Subscribe ROS " width="750">
+</p>
+
+Modificar la Pose
+Ahora veremos el resultado de modificar la pose del Turtle y posteriormente acceder a sus parámetros:
+<p align="center">
+    <img src=Imagenes/Pose_edited.png alt="Pose Edited " width="750">
 </p>
 
 ## Conclusiones
