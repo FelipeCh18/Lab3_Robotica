@@ -190,6 +190,17 @@ if __name__ == '__main__':
 
 
 ## Resultados y Análisis
+Primer Programa
+A continuación, se muestra el resultado de la ejecución del código dado en la guía de laboratorio:
+<p align="center">
+    <img src=Imagenes/Primer_Programa.png alt="Primer Programa " width="450">
+</p>
+
+Subscribe ROS
+Ahora veremos cual es el resultado de agregar la suscripción a los mensajes de ROS del Turtlesim:
+<p align="center">
+    <img src=Imagenes/Subscribe_ROS.png alt="Subscribe ROS " width="450">
+</p>
 
 ## Conclusiones
 El laboratorio ofreció una introducción a ROS a través del uso de turtlesim, explorando temas esenciales como suscripciones, publicaciones, tópicos, mensajes, servicios, entre otros. Esto nos proporcionó una base sólida para comprender cómo estos elementos pueden ser empleados en diversas tareas y objetivos en futuros laboratorios. Además, mediante el control de una tortuga en una interfaz gráfica a través de la terminal, se establecen los fundamentos para comprender las comunicaciones entre nodos en ROS y prepararse para interacciones más complejas entre programas en diferentes lenguajes.
