@@ -189,7 +189,7 @@ if __name__ == '__main__':
 ```
 
 
-## Resultados y Análisis
+## Resultados
 Primer Programa
 A continuación, se muestra el resultado de la ejecución del código dado en la guía de laboratorio:
 <p align="center">
