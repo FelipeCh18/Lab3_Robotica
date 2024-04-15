@@ -208,5 +208,9 @@ Ahora veremos el resultado de modificar la pose del Turtle y posteriormente acce
     <img src=Imagenes/Pose_edited.png alt="Pose Edited " width="1000">
 </p>
 
+myTeleopKey
+Por último, veremos el funcionamiento del código de operación de la tortuga con las teclas ASWD:
+https://github.com/FelipeCh18/Lab3_Robotica/blob/main/Imagenes/Video/myTeleopKeyVideo.mkv
+
 ## Conclusiones
 El laboratorio ofreció una introducción a ROS a través del uso de turtlesim, explorando temas esenciales como suscripciones, publicaciones, tópicos, mensajes, servicios, entre otros. Esto nos proporcionó una base sólida para comprender cómo estos elementos pueden ser empleados en diversas tareas y objetivos en futuros laboratorios. Además, mediante el control de una tortuga en una interfaz gráfica a través de la terminal, se establecen los fundamentos para comprender las comunicaciones entre nodos en ROS y prepararse para interacciones más complejas entre programas en diferentes lenguajes.
