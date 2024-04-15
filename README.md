@@ -14,6 +14,8 @@ Este ejercicio inicial no solo sirvió para familiarizarse con el funcionamiento
 
 ## MATLAB
 
+Para la primera parte del laboratorio se pide cumplir con las tareas indicadas: escribir un script en Matlab que utilice la instrucción `rossubscriber` para suscribirse al tópico de pose de la simulación de turtle1, empleando la opción `LatestMessage` para capturar el último mensaje obtenido. Además, se necesita investigar los servicios de `turtlesim` disponibles para modificar la pose de la tortuga y enviar los valores asociados a la pose de turtle1. Por último, se debe indagar cómo finalizar el nodo maestro en Matlab para asegurar una terminación adecuada del programa.
+
 PRIMER PROGRAMA
 ```
 %%
